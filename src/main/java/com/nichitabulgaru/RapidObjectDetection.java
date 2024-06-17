@@ -4,7 +4,7 @@ package com.nichitabulgaru;
  * Hello world!
  *
  */
-public class App 
+public class RapidObjectDetection 
 {
     public static void main( String[] args )
     {
